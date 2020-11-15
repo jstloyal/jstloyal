@@ -7,7 +7,9 @@ I'm [Sunkanmi Adetayo](https://jstloyal.github.io/portfolio/index.html), a Full 
 <a href="https://www.linkedin.com/in/jstloyalty/">
   <img align="left" alt="Adetayo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=jstloyal.jstloyal)
+<a href="https://medium.com/@jstloyalty">
+  <img align="left" alt="Adetayo's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <br>
 <br>
 
@@ -35,3 +37,6 @@ I'm [Sunkanmi Adetayo](https://jstloyal.github.io/portfolio/index.html), a Full 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jstloyal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
