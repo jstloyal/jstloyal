@@ -17,7 +17,8 @@ I'm [Sunkanmi Adetayo](https://jstloyal.github.io/portfolio/index.html), a Full 
 - 🔭 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning, improving my skills and also looking for a remote job opportunity
 - 💬 Ask me about anything I'm happy to help
-- 📫 How to reach me: [@jstloyalty](https://twitter.com/jstloyalTY);
+- 📫 How to reach me: ![Twitter Badge](https://img.shields.io/twitter/url?label=jstloyalty&style=social&url=https%3A%2F%2Ftwitter.com%2FjstloyalTY)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jstloyalty@gmail.com)
 - 📝[Resume](https://res.cloudinary.com/jstloyalty/image/upload/v1605366494/x30lwxzxa7akmnse2gcr.pdf)
 <br>
 <br>
